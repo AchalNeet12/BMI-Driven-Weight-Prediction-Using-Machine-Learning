@@ -1,9 +1,9 @@
 # Weight Prediction Using Machine Learning
 ---
 ## 📜 Project Description:
-   This project aims to build a predictive model that estimates an individual’s weight based on their height. By leveraging machine learning algorithms, we analyze the relationships between height and 
-   weight, evaluate various models for accuracy, and deploy the best-performing model for real-time use via a web application. The project emphasizes simplicity, interpretability, and ease of use, making it 
-   accessible for non-technical users.
+   - This project aims to build a predictive model that estimates an individual’s weight based on their height. By leveraging machine learning algorithms, we analyze the relationships between height and 
+     weight, evaluate various models for accuracy, and deploy the best-performing model for real-time use via a web application. The project emphasizes simplicity, interpretability, and ease of use, making it 
+     accessible for non-technical users.
 ---
 ## 📦 Dataset:
 The dataset used for this project includes:
