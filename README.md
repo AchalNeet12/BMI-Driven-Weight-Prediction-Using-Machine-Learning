@@ -28,13 +28,14 @@ The preprocessing steps ensure data quality and prepare it for modeling:
 ---
 ## ⚙ Algorithms Evaluated:
 Three machine learning algorithms were applied and compared based on Mean Squared Error (MSE):
-1 Linear Regression:
+
+1. Linear Regression:
  - Simplest and most interpretable model.
  - Achieved the best `MSE = 21.6973.`
-2 Random Forest Regression:
+2. Random Forest Regression:
  - Ensemble method that reduces overfitting.
  - `MSE = 2708.3037.`
-3 Decision Tree Regression:
+3. Decision Tree Regression:
  - Captures non-linear relationships but prone to overfitting.
  - `MSE = 41.5075.`
 - **Conclusion:** Linear Regression outperformed other models due to the dataset's linear nature and was selected for deployment.
