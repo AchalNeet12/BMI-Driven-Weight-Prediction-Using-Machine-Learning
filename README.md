@@ -1,4 +1,4 @@
-# Weight Prediction Using Machine Learning
+# BMI Driven Weight Prediction Using Machine Learning
 ---
 ## 📜 Project Description:
    - This project aims to build a predictive model that estimates an individual’s weight based on their height. By leveraging machine learning algorithms, we analyze the relationships between height and 
